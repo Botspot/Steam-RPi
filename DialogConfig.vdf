@@ -1,0 +1,409 @@
+"UserConfigData"
+{
+	"FriendsMainDialog"
+	{
+		"FriendPanelSelf"
+		{
+		}
+		"FriendsDialogSheet"
+		{
+			"FriendsFriendsPage"
+			{
+				"BuddyList"
+				{
+					"0_collapsed"		"0"
+					"1_collapsed"		"0"
+					"2_collapsed"		"0"
+					"3_collapsed"		"0"
+					"4_collapsed"		"0"
+					"5_collapsed"		"0"
+					"allfriends_collapsed"		"0"
+				}
+			}
+			"FriendsClansPage"
+			{
+				"BuddyList"
+				{
+					"0_collapsed"		"0"
+					"1_collapsed"		"0"
+					"2_collapsed"		"0"
+					"3_collapsed"		"0"
+				}
+			}
+		}
+		"FriendsState"
+		{
+		}
+		"xpos"		"1620"
+		"ypos"		"540"
+		"wide"		"252"
+		"tall"		"440"
+	}
+	"SteamRootDialog"
+	{
+		"UINavigatorPanel"
+		{
+			"DownloadsPage"
+			{
+				"panel_list"
+				{
+					"0_collapsed"		"0"
+					"1_collapsed"		"0"
+					"2_collapsed"		"0"
+					"3_collapsed"		"0"
+					"4_collapsed"		"0"
+				}
+				"downloadsummarypanel"
+				{
+				}
+			}
+			"MusicPage_Details"
+			{
+				"CMusicPage_Details_Content"
+				{
+					"DetailsBorder"
+					{
+					}
+					"AlbumList"
+					{
+						"#Music_Column_hidden"		"0"
+						"sort_column"		"#Music_Column"
+						"sort_column_secondary"		""
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+					"ArtistList"
+					{
+						"#Music_Column_hidden"		"0"
+						"sort_column"		"#Music_Column"
+						"sort_column_secondary"		""
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+					"PlaylistList"
+					{
+						"#Music_Column_hidden"		"0"
+						"sort_column"		"#Music_Column"
+						"sort_column_secondary"		""
+						"sort_column_asc"		"0"
+						"sort_column_secondary_asc"		"1"
+					}
+				}
+			}
+			"NewLibraryPage"
+			{
+			}
+			"phonereminderbar"
+			{
+			}
+			"emailreminderbar"
+			{
+			}
+			"filter_flags"		"1"
+			"filter_tag"		""
+			"gameUIPanel"		"3"
+			"libraryUIPanel"		"3"
+			"musicnavdisplaymode"		"0"
+		}
+		"UIStatusPanel"
+		{
+		}
+		"AccountButton"
+		{
+		}
+		"DialogMode"		"1"
+		"xpos"		"455"
+		"ypos"		"220"
+		"wide"		"1010"
+		"tall"		"600"
+	}
+	"Servers"
+	{
+		"Pages"
+		{
+			"InternetGames"
+			{
+				"gamelist"
+				{
+					"#ServerBrowser_Password_hidden"		"0"
+					"#ServerBrowser_Bots_hidden"		"1"
+					"#ServerBrowser_Secure_hidden"		"0"
+					"#ServerBrowser_Servers_hidden"		"0"
+					"#ServerBrowser_IPAddress_hidden"		"1"
+					"#ServerBrowser_Game_hidden"		"0"
+					"#ServerBrowser_Players_hidden"		"0"
+					"#ServerBrowser_Map_hidden"		"0"
+					"#ServerBrowser_Latency_hidden"		"0"
+					"sort_column"		"#ServerBrowser_Latency"
+					"sort_column_secondary"		""
+					"sort_column_asc"		"1"
+					"sort_column_secondary_asc"		"1"
+				}
+			}
+			"FavoriteGames"
+			{
+				"gamelist"
+				{
+					"#ServerBrowser_Password_hidden"		"0"
+					"#ServerBrowser_Bots_hidden"		"1"
+					"#ServerBrowser_Secure_hidden"		"0"
+					"#ServerBrowser_Servers_hidden"		"0"
+					"#ServerBrowser_IPAddress_hidden"		"1"
+					"#ServerBrowser_Game_hidden"		"0"
+					"#ServerBrowser_Players_hidden"		"0"
+					"#ServerBrowser_Map_hidden"		"0"
+					"#ServerBrowser_Latency_hidden"		"0"
+					"sort_column"		"#ServerBrowser_Latency"
+					"sort_column_secondary"		""
+					"sort_column_asc"		"1"
+					"sort_column_secondary_asc"		"1"
+				}
+			}
+			"HistoryGames"
+			{
+				"gamelist"
+				{
+					"#ServerBrowser_Password_hidden"		"0"
+					"#ServerBrowser_Bots_hidden"		"1"
+					"#ServerBrowser_Secure_hidden"		"0"
+					"#ServerBrowser_Servers_hidden"		"0"
+					"#ServerBrowser_IPAddress_hidden"		"1"
+					"#ServerBrowser_Game_hidden"		"0"
+					"#ServerBrowser_Players_hidden"		"0"
+					"#ServerBrowser_Map_hidden"		"0"
+					"#ServerBrowser_Latency_hidden"		"0"
+					"#ServerBrowser_LastPlayed_hidden"		"0"
+					"sort_column"		"#ServerBrowser_LastPlayed"
+					"sort_column_secondary"		"#ServerBrowser_Latency"
+					"sort_column_asc"		"1"
+					"sort_column_secondary_asc"		"1"
+				}
+			}
+			"SpectateGames"
+			{
+				"gamelist"
+				{
+					"#ServerBrowser_Password_hidden"		"0"
+					"#ServerBrowser_Bots_hidden"		"1"
+					"#ServerBrowser_Secure_hidden"		"0"
+					"#ServerBrowser_Servers_hidden"		"0"
+					"#ServerBrowser_IPAddress_hidden"		"1"
+					"#ServerBrowser_Game_hidden"		"0"
+					"#ServerBrowser_Players_hidden"		"0"
+					"#ServerBrowser_Map_hidden"		"0"
+					"#ServerBrowser_Latency_hidden"		"0"
+					"sort_column"		"#ServerBrowser_Latency"
+					"sort_column_secondary"		""
+					"sort_column_asc"		"1"
+					"sort_column_secondary_asc"		"1"
+				}
+			}
+			"LanGames"
+			{
+				"gamelist"
+				{
+					"#ServerBrowser_Password_hidden"		"0"
+					"#ServerBrowser_Bots_hidden"		"1"
+					"#ServerBrowser_Secure_hidden"		"0"
+					"#ServerBrowser_Servers_hidden"		"0"
+					"#ServerBrowser_IPAddress_hidden"		"1"
+					"#ServerBrowser_Game_hidden"		"0"
+					"#ServerBrowser_Players_hidden"		"0"
+					"#ServerBrowser_Map_hidden"		"0"
+					"#ServerBrowser_Latency_hidden"		"0"
+					"sort_column"		"#ServerBrowser_Latency"
+					"sort_column_secondary"		""
+					"sort_column_asc"		"1"
+					"sort_column_secondary_asc"		"1"
+				}
+			}
+			"FriendsGames"
+			{
+				"gamelist"
+				{
+					"#ServerBrowser_Password_hidden"		"0"
+					"#ServerBrowser_Bots_hidden"		"1"
+					"#ServerBrowser_Secure_hidden"		"0"
+					"#ServerBrowser_Servers_hidden"		"0"
+					"#ServerBrowser_IPAddress_hidden"		"1"
+					"#ServerBrowser_Game_hidden"		"0"
+					"#ServerBrowser_Players_hidden"		"0"
+					"#ServerBrowser_Map_hidden"		"0"
+					"#ServerBrowser_Latency_hidden"		"0"
+					"sort_column"		"#ServerBrowser_Latency"
+					"sort_column_secondary"		""
+					"sort_column_asc"		"1"
+					"sort_column_secondary_asc"		"1"
+				}
+			}
+		}
+		"DialogServerBrowser.res"
+		{
+			"GameTabs"
+			{
+				"InternetGames"
+				{
+					"gamelist"
+					{
+						"#ServerBrowser_Password_hidden"		"0"
+						"#ServerBrowser_Bots_hidden"		"1"
+						"#ServerBrowser_Secure_hidden"		"0"
+						"#ServerBrowser_Servers_hidden"		"0"
+						"#ServerBrowser_IPAddress_hidden"		"1"
+						"#ServerBrowser_Game_hidden"		"0"
+						"#ServerBrowser_Players_hidden"		"0"
+						"#ServerBrowser_Map_hidden"		"0"
+						"#ServerBrowser_Latency_hidden"		"0"
+						"sort_column"		"#ServerBrowser_Latency"
+						"sort_column_secondary"		""
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+				}
+				"FavoriteGames"
+				{
+					"gamelist"
+					{
+						"#ServerBrowser_Password_hidden"		"0"
+						"#ServerBrowser_Bots_hidden"		"1"
+						"#ServerBrowser_Secure_hidden"		"0"
+						"#ServerBrowser_Servers_hidden"		"0"
+						"#ServerBrowser_IPAddress_hidden"		"1"
+						"#ServerBrowser_Game_hidden"		"0"
+						"#ServerBrowser_Players_hidden"		"0"
+						"#ServerBrowser_Map_hidden"		"0"
+						"#ServerBrowser_Latency_hidden"		"0"
+						"sort_column"		"#ServerBrowser_Latency"
+						"sort_column_secondary"		""
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+				}
+				"HistoryGames"
+				{
+					"gamelist"
+					{
+						"#ServerBrowser_Password_hidden"		"0"
+						"#ServerBrowser_Bots_hidden"		"1"
+						"#ServerBrowser_Secure_hidden"		"0"
+						"#ServerBrowser_Servers_hidden"		"0"
+						"#ServerBrowser_IPAddress_hidden"		"1"
+						"#ServerBrowser_Game_hidden"		"0"
+						"#ServerBrowser_Players_hidden"		"0"
+						"#ServerBrowser_Map_hidden"		"0"
+						"#ServerBrowser_Latency_hidden"		"0"
+						"#ServerBrowser_LastPlayed_hidden"		"0"
+						"sort_column"		"#ServerBrowser_LastPlayed"
+						"sort_column_secondary"		"#ServerBrowser_Latency"
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+				}
+				"SpectateGames"
+				{
+					"gamelist"
+					{
+						"#ServerBrowser_Password_hidden"		"0"
+						"#ServerBrowser_Bots_hidden"		"1"
+						"#ServerBrowser_Secure_hidden"		"0"
+						"#ServerBrowser_Servers_hidden"		"0"
+						"#ServerBrowser_IPAddress_hidden"		"1"
+						"#ServerBrowser_Game_hidden"		"0"
+						"#ServerBrowser_Players_hidden"		"0"
+						"#ServerBrowser_Map_hidden"		"0"
+						"#ServerBrowser_Latency_hidden"		"0"
+						"sort_column"		"#ServerBrowser_Latency"
+						"sort_column_secondary"		""
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+				}
+				"LanGames"
+				{
+					"gamelist"
+					{
+						"#ServerBrowser_Password_hidden"		"0"
+						"#ServerBrowser_Bots_hidden"		"1"
+						"#ServerBrowser_Secure_hidden"		"0"
+						"#ServerBrowser_Servers_hidden"		"0"
+						"#ServerBrowser_IPAddress_hidden"		"1"
+						"#ServerBrowser_Game_hidden"		"0"
+						"#ServerBrowser_Players_hidden"		"0"
+						"#ServerBrowser_Map_hidden"		"0"
+						"#ServerBrowser_Latency_hidden"		"0"
+						"sort_column"		"#ServerBrowser_Latency"
+						"sort_column_secondary"		""
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+				}
+				"FriendsGames"
+				{
+					"gamelist"
+					{
+						"#ServerBrowser_Password_hidden"		"0"
+						"#ServerBrowser_Bots_hidden"		"1"
+						"#ServerBrowser_Secure_hidden"		"0"
+						"#ServerBrowser_Servers_hidden"		"0"
+						"#ServerBrowser_IPAddress_hidden"		"1"
+						"#ServerBrowser_Game_hidden"		"0"
+						"#ServerBrowser_Players_hidden"		"0"
+						"#ServerBrowser_Map_hidden"		"0"
+						"#ServerBrowser_Latency_hidden"		"0"
+						"sort_column"		"#ServerBrowser_Latency"
+						"sort_column_secondary"		""
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+				}
+			}
+			"xpos"		"96"
+			"ypos"		"416"
+			"wide"		"960"
+			"tall"		"572"
+		}
+	}
+	"resource"
+	{
+		"layout"
+		{
+			"gamespage_mini.layout"
+			{
+				"GamesList"
+				{
+					"#Steam_IconsColumn_hidden"		"0"
+					"#Steam_GamesColumn_hidden"		"0"
+					"#Steam_GamesSection_SiteGranted_collapsed"		"0"
+					"#Steam_GamesSection_Favorites_collapsed"		"0"
+					"#Steam_GamesSection_Applications_collapsed"		"0"
+					"#Steam_GamesSection_Games_collapsed"		"0"
+					"#Steam_GamesSection_Tools_collapsed"		"0"
+					"#Steam_GamesSection_SteamVR_collapsed"		"0"
+					"#Steam_GamesSection_Videos_collapsed"		"0"
+					"sort_column"		"#Steam_GamesColumn"
+					"sort_column_secondary"		""
+					"sort_column_asc"		"1"
+					"sort_column_secondary_asc"		"1"
+					"selection"		"220200"
+					"section"		"#Steam_GamesSection_Games"
+					"Collapsers"
+					{
+						"#Steam_GamesSection_SiteGranted"		"0"
+						"#Steam_GamesSection_Favorites"		"0"
+						"#Steam_GamesSection_Applications"		"0"
+						"#Steam_GamesSection_Games"		"0"
+						"#Steam_GamesSection_Tools"		"0"
+						"#Steam_GamesSection_SteamVR"		"0"
+						"#Steam_GamesSection_Videos"		"0"
+					}
+				}
+				"xpos"		"800"
+				"ypos"		"170"
+				"wide"		"320"
+				"tall"		"700"
+				"filter_flags"		"1"
+				"filter_tag"		""
+			}
+		}
+	}
+}
